@@ -1,3 +1,8 @@
+/*Observe os programas (a) e (b) em C abaixo, execute-os e (ii)
+explique seu comportamento. (iii) Pesquise a explicação na
+bibliografia recomendada e (iv) altere seus códigos para realizar
+ordenação descendente (ordem decrescente).*/
+
 // a)
 
 #include <stdio.h>

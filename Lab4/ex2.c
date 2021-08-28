@@ -1,3 +1,9 @@
+/*Escreva um programa em C para (i) ler dois vetores ordenados em
+ordem crescente de n ((ii) n informado pelo usuário e valendo até
+100) números reais, e (iii) gerar um vetor de 2n elementos ordenado
+em ordem crescente, (iv) contendo os elementos dos dois vetores
+originais.*/
+
 #include <stdio.h>
 #define MAX 100
 

@@ -1,3 +1,7 @@
+/*Construa um programa em C para (i) ler uma matriz de mais de 2
+dimensões, (ii) verifique limites de tamanho em nro de elementos
+inteiros e (iii) em dimensões.*/
+
 #include <stdio.h>
 const int MAX = 80;
 

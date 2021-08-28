@@ -1,3 +1,12 @@
+/*Observe o programa em C abaixo e execute-o. (ii) Explique seu
+funcionamento e (iii) modifique seu código para que não precise do
+comando break (que interrompe o laço de repetição). Para alterar o
+código, consulte o algoritmo visto em aula. (iv) Teste ambas as
+versões do programa para vetores com : (a) número ímpar de
+elementos; (b) número par de elmentos não potência de 2 e (c)
+numero de elementos potência d e2.*/
+
+
 /*
 Para valores aleatorios de numeros, o programa nao funcionara corretamente, afinal, ele considera que estes estejam em ordem crescente. O programa funciona da seguinte maneira. Ele analisa se o valor do "meio" da matriz eh igual ao valor de busca, se sim, acaba, se for maior, considere valores com indices menores (fazendo perder os possiveis valores que estariam "acima" do "meio"), senao, considera valores com indices maiores (perdendo possiveis valores tambem)
 */

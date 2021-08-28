@@ -1,3 +1,8 @@
+/*Escreva um programa em C para (i) ler os elementos de uma matriz
+quadrada mxm ((ii) m informado pelo usuário e 30), (iii) calcular e
+escrever sua transposta e (iv) apresentar a diferença das somas dos
+elementos das suas diagonais.*/
+
 #include <stdio.h>
 #define MAX 30
 

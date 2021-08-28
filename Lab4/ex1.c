@@ -1,3 +1,8 @@
+/*Escreva um programa em C para (i) ler um vetor de n ((ii) n informado
+pelo usuário e valendo até 100) inteiros, (iii) inverta a ordem dos
+seus elementos e (iv) escreva o vetor com seus elementos na nova
+ordem.*/
+
 #include <stdio.h>
 #define MAX 100
 

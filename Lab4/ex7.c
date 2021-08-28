@@ -1,3 +1,8 @@
+/*(i) Construa um programa em C que leia os elementos de um vetor de
+até 30 inteiros sem sinal, (ii) ordene-o e (iii) permita a consulta ao
+seu conteúdo utilizando a busca linear. (iv) Pesquise como funciona a
+Busca Linear.*/
+
 #include <stdio.h>
 
 int main(void)
