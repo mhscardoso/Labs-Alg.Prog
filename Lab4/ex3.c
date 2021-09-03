@@ -38,6 +38,7 @@ int main(void)
 			if (vetor[a] == vetor[i])
 			{
 				duplicados++;
+				break;
 			}
 		}
 	}
