@@ -8,7 +8,11 @@ numero de elementos potência d e2.*/
 
 
 /*
-Para valores aleatorios de numeros, o programa nao funcionara corretamente, afinal, ele considera que estes estejam em ordem crescente. O programa funciona da seguinte maneira. Ele analisa se o valor do "meio" da matriz eh igual ao valor de busca, se sim, acaba, se for maior, considere valores com indices menores (fazendo perder os possiveis valores que estariam "acima" do "meio"), senao, considera valores com indices maiores (perdendo possiveis valores tambem)
+Para valores aleatorios de numeros, o programa nao funcionara corretamente, afinal, 
+ele considera que estes estejam em ordem crescente. O programa funciona da seguinte maneira. 
+Ele analisa se o valor do "meio" da matriz eh igual ao valor de busca, se sim, acaba, se for maior, 
+considere valores com indices menores (fazendo perder os possiveis valores que estariam "acima" do "meio"), 
+senao, considera valores com indices maiores (perdendo possiveis valores tambem)
 */
 
 #include <stdio.h>
